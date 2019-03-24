@@ -1,0 +1,12 @@
+C:\Users\Heleli\source\repos\Somar\Somar\bin\Debug\Somar.exe.config
+C:\Users\Heleli\source\repos\Somar\Somar\bin\Debug\Somar.exe
+C:\Users\Heleli\source\repos\Somar\Somar\bin\Debug\Somar.pdb
+C:\Users\Heleli\source\repos\Somar\Somar\bin\Debug\Somar.xml
+C:\Users\Heleli\source\repos\Somar\Somar\obj\Debug\Somar.Resources.resources
+C:\Users\Heleli\source\repos\Somar\Somar\obj\Debug\Somar.vbproj.GenerateResource.cache
+C:\Users\Heleli\source\repos\Somar\Somar\obj\Debug\Somar.vbproj.CoreCompileInputs.cache
+C:\Users\Heleli\source\repos\Somar\Somar\obj\Debug\Somar.exe
+C:\Users\Heleli\source\repos\Somar\Somar\obj\Debug\Somar.xml
+C:\Users\Heleli\source\repos\Somar\Somar\obj\Debug\Somar.pdb
+C:\Users\Heleli\source\repos\Somar\Somar\obj\Debug\Somar.vbprojAssemblyReference.cache
+C:\Users\Heleli\source\repos\Somar\Somar\obj\Debug\Somar.Calculadora.resources
